@@ -1,0 +1,28 @@
+#
+# first we have the core requirements
+# i.e. libraries used for running
+# code in the notebooks per se
+
+# all the notebooks in this repo use a bash kernel
+# (and not a Python kernel, like most notebooks)
+calysto_bash
+
+numpy
+pandas
+matplotlib
+seaborn
+
+ipythontutor
+nbautoeval
+
+#
+# jupyter basics
+#
+jupyterlab
+notebook
+jupytext
+jupyterlab-myst
+jupyterlab-courselevels
+
+ipywidgets >= 8.0
+ipympl

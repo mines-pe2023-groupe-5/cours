@@ -19,14 +19,26 @@ Les données proviennent d'un formulaire Google que vous avez rempli. Les résul
 
 ### 0. Setup
 
-Dans un nouveau repertoire (ou le repertoire du cours), on install conda avec un nouvelle environnement.
+On récupère avec git le projet du cours depuis votre répertoire de travail :
 
 ```bash
-$ conda create --name num
+git clone git@github.com:mines-pe2023-groupe-5/cours.git
+cd cours
+```
+
+On install un nouvel environnement conda tout propre.
+
+```bash
+$ conda create --name num python=3.10
 $ conda activate num
 ```
 
-On peut alors lancer un notebook.
+On installe nos dépendances :
+```bash
+pip install -r requirements.txt
+```
+
+On peut alors lancer ouvrir un **nouveau** notebook.
 
 ### 1. Récupération des données
 
