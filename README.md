@@ -12,7 +12,7 @@
 
 1. Previously on PA
 2. Présentation de la notion d'index : https://nbhosting.inria.fr/builds/ue12-p23-numerique/handouts/latest/2-01-pandas-read-csv-nb.html#les-index-et-indices-des-tables
-3. Présentation d'exercice continue. TODO
+3. Présentation d'exercice continue. [Instructions](TP-devoir.md)
 4. [Suite / corrigé du TP se connaitre](se-connaitre.ipynb)
 5. Présentation d'outil pour se débrouiller seul :
   * La documentation pandas : [doc](https://pandas.pydata.org/)
