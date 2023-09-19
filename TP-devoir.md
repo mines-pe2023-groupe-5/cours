@@ -38,7 +38,7 @@ Suivez les étapes ci-dessous pour accomplir cette tâche :
    - Ce travail peut rapporter un bonus pouvant aller jusqu'à 5 points sur la moyenne de votre cours en fonction de la qualité de votre travail.
 
 8. **Soumission** :
-   - Soumettez votre notebook via la plateforme d'apprentissage en ligne, en respectant la date limite spécifiée : **10 octobre**.
+   - Soumettez votre notebook en l'envoyant par email à votre professeur (avec le csv si besoin), en respectant la date limite spécifiée : **10 octobre**.
 
 ## Ressources
 
