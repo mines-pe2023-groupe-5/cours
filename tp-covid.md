@@ -96,4 +96,7 @@ Est-ce qu'il n'y a pas un problème de type ? Comment le régler (indice chez vo
 4. Comment lister les pays ?
 5. Comment faire pour tracer pour l'évolution de la population en France ? en Italie ? une petite fonction qui nous fait cela ?
 
-6. On va voir le cours sur 'groupby' en attendant je pose cela ici : `pop = country_population.groupby("country").max("year")`
+#### Etape 5 : Pour aller plus loin
+1. Comment faire pour avoir la dernière population par pays (indice, on va voir le cours sur 'groupby')
+2. Comment on fait pour merger cela avec nos données précédentes ?
+3. On agrège tout cela pour faire un graphe comparé du nombre de mort pour 100000 habitants en france et en italie (idéalement sur le même graphe).
