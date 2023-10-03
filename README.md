@@ -26,8 +26,9 @@
 
 1. Previously on PE
 2. Orga - Introduction d'un nouvel outil pour gravailler ensemble -> slack.
-3. TP - Covid 19
+3. [TP - Covid 19](tp-covid.md)
 3bis. Pandas - Un peu de cours:
    * [group](https://ue12-p23-numerique.readthedocs.io/en/latest/2-07-pandas-group-by-nb.html)
    * [on aggrège les données](https://ue12-p23-numerique.readthedocs.io/en/latest/2-09-pandas-merge-concat-nb.html)
 4. Methodo - Lire un un repo git => [exemple](https://github.com/rozierguillaume/covid-19)
+5. Numpy - Hands on
