@@ -60,7 +60,7 @@ On vérifie que c'est correctement chargé
 list(by_countries.keys())[0:4]
 ```
 
-#### Manipulastion pour structurer les données correctements
+#### Manipulation pour structurer les données correctements
 
 ```python
 data = []
