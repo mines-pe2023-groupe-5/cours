@@ -83,7 +83,7 @@ Est-ce qu'il n'y a pas un problème de type ? Comment le régler (indice chez vo
 
 ### Etape 3 : Nombre de morts par jour/semaine/mois en france
 
-1. On pense à bien ordonné les colonnes par date
+1. On pense à bien ordonner les colonnes par date
 2. On regarde la doc de `df.diff` et on en déduit comment connaitre le nombre de mort d'un jour sur l'autre
 3. On créer des nouvelles colonnes 'deaths_by_day' et 'deaths_by_week'
 4. On fait des **beaux** graphes avec ces données
