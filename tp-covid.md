@@ -81,7 +81,7 @@ Est-ce qu'il n'y a pas un problème de type ? Comment le régler (indice chez vo
 1. Comment filtrer les données françaises dans un DataFrame `df_france` ?
 2. On peut faire de jolie graphe sur le nombre de mort en france
 
-### Etape 3 : Nombre de mort par jour/semaine/mois en france
+### Etape 3 : Nombre de morts par jour/semaine/mois en france
 
 1. On pense à bien ordonné les colonnes par date
 2. On regarde la doc de `df.diff` et on en déduit comment connaitre le nombre de mort d'un jour sur l'autre
