@@ -46,5 +46,5 @@
    * Depuis l'interface github -> créez votre Pull Request (ou PR pour les intimes) en rajoutant en commentaire les informations dont je peux avoir besoin pour corriger votre copie.
 3. Cours sur numpy
 4. TP sur les images (jusqu'à la partie 'transparence') -> https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-tps/images/README-images1-nb.html 
-5. (s'il y a le temps) TP fractales de Mandelbrot
+5. (s'il y a le temps) [TP fractales de Mandelbrot](tp-fractal.ipynb)
 
