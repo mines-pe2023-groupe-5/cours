@@ -32,3 +32,19 @@
    * [on aggrège les données](https://ue12-p23-numerique.readthedocs.io/en/latest/2-09-pandas-merge-concat-nb.html)
 4. Methodo - Lire un un repo git => [exemple](https://github.com/rozierguillaume/covid-19)
 5. Numpy - Hands on
+
+
+## 10/10/2023
+
+1. Previously on PE
+2. Devoirs maison à mettre sous github :
+   * Effectuer un `git pull` sur le cours pour récupérer la dernière version (potentiellement il vous faudra 'nettoyer votre repo avec `git restore` ou `git stash`)
+   * Créer une nouvelle branch et y switcher. Je propose le nom de branche `devoirs/<username-github>` (ex: 'devoirs/raphaelpra' pour moi) =>  `git switch -c devoirs/raphaelpra` avec votre login github à la place de raphaelpra
+   * Créer un dossier dans le repertoire **devoirs/** avec notre login github (ex: devoirs/raphaelpra pour moi).
+   * Mettez votre notebook + documents nécessaires dans ce repertoire
+   * Push votre code sur le repo du cours, sur la branche -> `git push origin devoirs/raphaelpra`
+   * Depuis l'interface github -> créez votre Pull Request (ou PR pour les intimes) en rajoutant en commentaire les informations dont je peux avoir besoin pour corriger votre copie.
+3. Cours sur numpy
+4. TP sur les images (jusqu'à la partie 'transparence') -> https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-tps/images/README-images1-nb.html 
+5. (s'il y a le temps) TP fractales de Mandelbrot
+
