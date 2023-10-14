@@ -10,7 +10,7 @@ calysto_bash
 numpy
 pandas
 matplotlib
-seaborn
+seaborn >= 0.13
 
 ipythontutor
 nbautoeval
