@@ -48,3 +48,12 @@
 4. TP sur les images (jusqu'à la partie 'transparence') -> https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-tps/images/README-images1-nb.html 
 5. (s'il y a le temps) [TP fractales de Mandelbrot](tp-fractal.ipynb)
 
+## 17/10/2023
+
+1. Previously on PE
+2. Petit compte-rendu sur les devoirs
+3. Dataviz - Presentation
+4. [Initiation Seaborn](https://nbhosting.inria.fr/builds/ue12-p23-numerique/handouts/latest/3-05-seaborn-intro-nb.html)
+5. On met en pratique seaborn
+6. Sondage/review du cours PE -> https://forms.gle/Qcsn3f2FMSfhgRV46
+
